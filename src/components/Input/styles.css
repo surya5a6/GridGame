@@ -1,0 +1,7 @@
+.formControl {
+  width: 10rem;
+  height: 0.75rem;
+  background: cyan;
+  color: blue;
+  border-radius: 3px;
+}
