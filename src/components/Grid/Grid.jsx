@@ -33,6 +33,15 @@ const Grid = (props) => {
         <article className="item-7"></article>
         <article className="item-8"></article>
         <article className="item-9"></article> */}
+        {/* <article className="item-1"></article>
+        <article className="item-2"></article>
+        <article className="item-3"></article>
+        <article className="item-4"></article>
+        <article className="item-5"></article>
+        <article className="item-6"></article>
+        <article className="item-7"></article>
+        <article className="item-8"></article>
+        <article className="item-9"></article> */}
       </div>
     </div>
   )
